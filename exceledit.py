@@ -1,2 +1,2 @@
-aa= "excel"
+aa= "exceㅈㅈㅈㅈl"
 print(aa)
