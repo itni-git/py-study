@@ -2,7 +2,7 @@ import openpyxl
 
 file_path = 'testA.xlsx'
 old_name = '황은율'
-new_name = '황가달'
+new_name = '황rk가달'
 
 try:
     workbook = openpyxl.load_workbook(file_path)
